@@ -84,4 +84,20 @@
 </details>
 
 ## 구현 영상 
-Link: [Google][googlelink]
+<details>
+<summary>주요 기능 상세 보기</summary>
+  
+![part1 1(split-video com)](https://user-images.githubusercontent.com/84362720/188878641-b199c631-accd-48b1-8aa5-8bbf378b2419.gif)
+![part1 2(split-video com)](https://user-images.githubusercontent.com/84362720/188878734-2b654f32-d81b-4408-9425-43b241502afa.gif)
+![part1 3(split-video com)](https://user-images.githubusercontent.com/84362720/188878793-2e681def-692e-4322-8da5-d4de44052fde.gif)
+![part1 4(split-video com)](https://user-images.githubusercontent.com/84362720/188878852-84ed01b9-cc5b-43f3-a3f7-5436f6ebaa92.gif)
+![part2(split-video com)](https://user-images.githubusercontent.com/84362720/188878909-0a89120d-51c2-41f7-9dc1-06c6397441e8.gif)
+![part3(split-video com)](https://user-images.githubusercontent.com/84362720/188878957-52967b4e-171b-4cc0-b2fd-f2960b9bbc5e.gif)
+![part4(split-video com)](https://user-images.githubusercontent.com/84362720/188879003-15cda870-d3ab-42a6-9eb9-1a8ad56b6417.gif)
+![part5(split-video com)](https://user-images.githubusercontent.com/84362720/188879070-8d965e8c-69fd-4f73-a31c-ee60a949b92d.gif)
+![part6(split-video com)](https://user-images.githubusercontent.com/84362720/188879124-0b40d992-fbcc-431d-b547-05c3b82db8d0.gif)
+![part7(split-video com)](https://user-images.githubusercontent.com/84362720/188879204-56d19619-cc80-416c-a4d1-4c402562f837.gif)
+![part8(split-video com)](https://user-images.githubusercontent.com/84362720/188879254-1bab7a29-4fd8-41e7-98a7-80e4b5805216.gif)
+![part9(split-video com)](https://user-images.githubusercontent.com/84362720/188879319-53ab385b-bd89-4d5e-9940-e550a1eace02.gif)
+![part10(split-video com)](https://user-images.githubusercontent.com/84362720/188879361-b0429589-3fbf-4685-8bb9-e96476229c75.gif)
+</details>
