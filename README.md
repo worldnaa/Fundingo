@@ -5,7 +5,7 @@
 2. [기술 스택](#기술-스택)
 3. [담당 업무](#담당-업무)
 4. [분석 설계](#분석-설계)
-5. [주요 기능](#주요-기능)
+5. [구현 기능](#-기능)
 6. [구현 영상](#구현-영상)
 
 
@@ -72,9 +72,9 @@
 ![12 JPG](https://user-images.githubusercontent.com/84362720/188847163-5e42e971-32d5-4cf5-a4f7-53c0a49218a9.jpg)
 </details>
 
-## 주요 기능
+## 구현 기능
 <details>
-<summary>주요 기능 상세 보기</summary>
+<summary>구현 기능 상세 보기</summary>
 
 ![슬라이드1 JPG](https://user-images.githubusercontent.com/84362720/188848330-1526936c-95b8-48da-8d94-51ae1a2c63c6.jpg)
 ![슬라이드2 JPG](https://user-images.githubusercontent.com/84362720/188848396-57e6eca6-cf47-4f2d-b4ef-e3bc8f11dec7.jpg)
