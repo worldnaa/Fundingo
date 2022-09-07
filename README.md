@@ -85,7 +85,7 @@
 
 ## 구현 영상 
 <details>
-<summary>주요 기능 상세 보기</summary>
+<summary>구현 영상 상세 보기</summary>
   
 ![part1 1(split-video com)](https://user-images.githubusercontent.com/84362720/188878641-b199c631-accd-48b1-8aa5-8bbf378b2419.gif)
 ![part1 2(split-video com)](https://user-images.githubusercontent.com/84362720/188878734-2b654f32-d81b-4408-9425-43b241502afa.gif)
