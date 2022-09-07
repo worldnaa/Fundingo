@@ -1,7 +1,7 @@
 # 펀딩고 프로젝트 (Fundingo Project)
 
 ### 목차
-1. [프로젝트 개요](#index-one)
+1. [프로젝트 개요](#1.-프로젝트-)
 2. [기술 스택](#2.-기술-스택)
 3. [담당 업무](#3.-담당-업무)
 4. [분석 설계](#4.-분석-설계)
@@ -83,6 +83,5 @@
 ![슬라이드5 JPG](https://user-images.githubusercontent.com/84362720/188848619-aeeed2a5-190d-49a3-8869-1a8f6fdc411c.jpg)
 </details>
 
-#index one
 # 6. 구현 영상 
 Link: [Google][googlelink]
