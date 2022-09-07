@@ -2,11 +2,11 @@
 
 ### 목차
 1. [프로젝트 개요](#프로젝트-개요)
-2. [기술 스택](#2.-기술-스택)
-3. [담당 업무](#3.-담당-업무)
-4. [분석 설계](#4.-분석-설계)
-5. [주요 기능](#5.-주요-기능)
-6. [구현 영상](#6.-구현-)
+2. [기술 스택](#기술-스택)
+3. [담당 업무](#담당-업무)
+4. [분석 설계](#분석-설계)
+5. [주요 기능](#주요-기능)
+6. [구현 영상](#구현-영상)
 
 
 ## 프로젝트 개요
@@ -18,7 +18,7 @@
 일반적으로 크라우드 펀딩은 유/무형의 상품, 기부, 후원 등 다양한 목적으로 이루어질 수 있으나,   
 펀딩고는 상품에 대한 펀딩 시스템을 타겟으로 했습니다.   
 
-## 2. 기술 스택
+## 기술 스택
 ![기술스택 JPG](https://user-images.githubusercontent.com/84362720/188839319-25e4229f-f07c-43da-9023-7053cfa2db6e.jpg)
 * Back-end   : Java, Spring Boot, Maven, MyBatis, JUnit, ApacheTomcat
 * Front-end  : HTML5/CSS3, JavaScript, jQuery, Ajax, Bootstrap5, SweetAlert, FontAwesome, JSON
@@ -26,7 +26,7 @@
 * Tool  :  Eclipse, SQL Developer, GitHub
 * API    : Coolsms, Kakao login, ApacheCommons   
 
-## 3. 담당 업무
+## 담당 업무
 **[ 비회원 기능 ]**
 * 회원가입 기능 및 페이지 구현
 * Coolsms API를 사용하여 휴대폰번호 인증 기능 구현
@@ -53,7 +53,7 @@
 * 회원목록에서 신고번호 클릭 시, 해당 회원의 신고이력조회 화면으로 이동
 * 회원신고이력에서 게시글번호 클릭 시, 해당 회원의 작성 게시글 화면으로 이동   
 
-## 4. 분석 설계
+## 분석 설계
 <details>
 <summary>분석 설계 상세 보기</summary>
 
@@ -72,7 +72,7 @@
 ![12 JPG](https://user-images.githubusercontent.com/84362720/188847163-5e42e971-32d5-4cf5-a4f7-53c0a49218a9.jpg)
 </details>
 
-## 5. 주요 기능
+## 주요 기능
 <details>
 <summary>주요 기능 상세 보기</summary>
 
@@ -83,5 +83,5 @@
 ![슬라이드5 JPG](https://user-images.githubusercontent.com/84362720/188848619-aeeed2a5-190d-49a3-8869-1a8f6fdc411c.jpg)
 </details>
 
-## 6. 구현 영상 
+## 구현 영상 
 Link: [Google][googlelink]
