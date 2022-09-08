@@ -29,7 +29,8 @@
 
 
 ## 담당 업무
-[구현 코드 보기 (노션)](https://www.notion.so/6e346bf48a0b40cda7aa676c6bf277a0)
+* [구현 코드 보기 (노션)](https://www.notion.so/6e346bf48a0b40cda7aa676c6bf277a0)
+
 **[ 회원 가입 ]**
 * 회원 가입 (휴대폰 인증 Coolsms API 사용)
 * Ajax 사용
