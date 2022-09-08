@@ -23,19 +23,19 @@ public class User {
 	private String concern3;      		//관심사3(푸드)
 	private String concern4;      		//관심사4(스포츠&여행)
 	private String concern5;     		//관심사5(취미&문화생활)
-	private String userStatus;	  		//회원상태
+	private String userStatus;	  	//회원상태
 	private String easypayCardNo; 		//간편결제카드번호
 	private String easypayCardValid;  	//간편결제카드유효기간
 	private String easypayCardPwd;		//간편결제카드비밀번호
-	private String easypayPwd;			//간편결제 비밀번호
-	private String addr;				//수령자 배송주소
-	private String postNo;				//우편번호
-	private String recipName;			//수령자명
-	private String recipPhone;			//수령자 휴대폰번호
-	private String deliveryReq;			//배송요청사항
+	private String easypayPwd;		//간편결제 비밀번호
+	private String addr;			//수령자 배송주소
+	private String postNo;			//우편번호
+	private String recipName;		//수령자명
+	private String recipPhone;		//수령자 휴대폰번호
+	private String deliveryReq;		//배송요청사항
 	private String userReportCount;		//신고횟수
-	private String loginStatus;         //로그인상태
-	private String dropOutReason;       //탈퇴사유 
+	private String loginStatus;             //로그인상태
+	private String dropOutReason;           //탈퇴사유 
 	
 	///Constructor
 	public User(){
