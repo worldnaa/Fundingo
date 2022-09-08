@@ -1,7 +1,6 @@
 package com.fundingo.common;
 
 
-//==>����Ʈȭ���� �𵨸�(�߻�ȭ/ĸ��ȭ)�� Bean 
 public class Search {
 	
 	///Field
@@ -9,10 +8,6 @@ public class Search {
 	private String searchCondition;
 	private String searchKeyword;
 	private int pageSize;
-	//==> ����Ʈȭ�� currentPage�� �ش��ϴ� ȸ�������� ROWNUM ��� SELECT ���� �߰��� Field 
-	//==> UserMapper.xml �� 
-	//==> <select  id="getUserList"  parameterType="search"	resultMap="userSelectMap">
-	//==> ����
 	private int endRowNum;
 	private int startRowNum;
 	
@@ -24,6 +19,7 @@ public class Search {
 	public int getPageSize() {
 		return pageSize;
 	}
+	
 	public void setPageSize(int paseSize) {
 		this.pageSize = paseSize;
 	}
@@ -31,6 +27,7 @@ public class Search {
 	public int getCurrentPage() {
 		return currentPage;
 	}
+	
 	public void setCurrentPage(int currentPage) {
 		this.currentPage = currentPage;
 	}
@@ -38,6 +35,7 @@ public class Search {
 	public String getSearchCondition() {
 		return searchCondition;
 	}
+	
 	public void setSearchCondition(String searchCondition) {
 		this.searchCondition = searchCondition;
 	}
@@ -45,15 +43,15 @@ public class Search {
 	public String getSearchKeyword() {
 		return searchKeyword;
 	}
+	
 	public void setSearchKeyword(String searchKeyword) {
 		this.searchKeyword = searchKeyword;
 	}
 	
-	//==> Select Query �� ROWNUM ������ �� 
 	public int getEndRowNum() {
 		return getCurrentPage()*getPageSize();
 	}
-	//==> Select Query �� ROWNUM ���� ��
+	
 	public int getStartRowNum() {
 		return (getCurrentPage()-1)*getPageSize()+1;
 	}
