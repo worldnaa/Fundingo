@@ -11,7 +11,7 @@ public class MailUtil {
 			// Mail Server 설정
 			String charSet = "utf-8";
 			String hostSMTP = "smtp.naver.com"; //SMTP 서버명
-			String hostSMTPid = TextFileReaderForAPI.getIDPwd("hostSMTPid");		//네이버아이디
+			String hostSMTPid = TextFileReaderForAPI.getIDPwd("hostSMTPid");	//네이버아이디
 			String hostSMTPpwd = TextFileReaderForAPI.getIDPwd("hostSMTPpwd");	//네이버비밀번호
 						        			
 			// 보내는 사람			
