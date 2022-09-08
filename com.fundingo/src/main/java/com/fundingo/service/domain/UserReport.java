@@ -3,16 +3,16 @@ package com.fundingo.service.domain;
 public class UserReport {
 
 	///Field
-	private int userReportNo;			//신고번호
-	private int reportUserNo;			//신고한 회원번호
-	private int targetUserNo;			//신고된 회원번호
+	private int userReportNo;		//신고번호
+	private int reportUserNo;		//신고한 회원번호
+	private int targetUserNo;		//신고된 회원번호
 	private String userReportTitle;		//신고제목
 	private String userReportType;		//신고유형
 	private String userReportContents;	//신고내용
 	private String confirmationStatus;	//신고확인처리상태
-	private int postNo;					//신고된 게시글번호
-	private int replyNo;				//신고된 댓글번호
-	private String nickname;			//신고한 회원 닉네임
+	private int postNo;			//신고된 게시글번호
+	private int replyNo;			//신고된 댓글번호
+	private String nickname;		//신고한 회원 닉네임
 
 	///Constructor
 	public UserReport() {
